@@ -1,4 +1,4 @@
-package restaurant.management.service.dto;
+package restaurantmanagementservice.dto;
 
 import java.util.List;
 

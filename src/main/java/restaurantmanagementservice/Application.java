@@ -1,4 +1,4 @@
-package restaurant.management.service;
+package restaurantmanagementservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

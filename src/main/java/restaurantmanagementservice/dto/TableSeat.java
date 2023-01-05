@@ -1,4 +1,4 @@
-package restaurant.management.service.dto;
+package restaurantmanagementservice.dto;
 
 public class TableSeat {
     private int tableSeatNumber;
